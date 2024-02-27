@@ -15,4 +15,4 @@ This Python application allows you to download YouTube videos by providing the v
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/lowercasecap/Youtube_downloader.git
+   git clone https://github.com/lowercasecap/YouTube_downloader.git
