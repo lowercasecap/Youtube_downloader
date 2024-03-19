@@ -9,7 +9,7 @@ This Python application allows you to download YouTube videos by providing the v
 - Simple and easy-to-use terminal interface.
 
 ## Requirements
-- Python 3.x
+- Python 3.12
 - [pip](https://pip.pypa.io/en/stable/) (Python package installer)
 
 ## Installation
